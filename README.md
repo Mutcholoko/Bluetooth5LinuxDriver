@@ -7,7 +7,7 @@ To install it:
 ```
 git clone https://github.com/Mutcholoko/Bluetooth5LinuxDriver.git
 
-cd Bluetooth5LinuxDriver
+cd Bluetooth5LinuxDriver/
 
 sudo cp rtl8761b_config /usr/lib/firmware/rtl_bt/rtl8761b_config.bin
 
